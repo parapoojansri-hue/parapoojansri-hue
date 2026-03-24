@@ -1,18 +1,4 @@
-## Hi there 👋
-
-<!--
-**parapoojansri-hue/parapoojansri-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...# 💫 About Me:
+# 💫 About Me:
  👋 Hi, I'm a BTech Student<br><br>🚀 About Me<br><br>* 🎓 Currently pursuing BTech<br>* 💻 Interested in programming and software development<br>* 🌱 Currently learning **Full Stack Development (Frontend + Backend Basics)**<br>* 🤝 Looking to collaborate on beginner-friendly projects<br>* 🆘 Exploring backend development<br><br> 🛠️ Skills<br><br>* 💻 **Languages:** 🐍 Python | 💡 C (Basics)<br>* 🌐 **Frontend:** 🌍 HTML | 🎨 CSS (Basics)<br>* ⚙️ **Backend:** 🔧 Learning Python (Flask Basics)<br>* 🧠 **Concepts:** Problem Solving | Basic Programming<br><br>📌 Projects<br><br>* 📅 **Timetable Generator** (Python)<br>* 🔐 **Simple Login Page UI** (HTML & CSS)<br><br>📈 Goals<br><br>* 🚀 Strengthen Python and C programming<br>* 🌐 Become a Full Stack Developer<br>* 🏗️ Build real-world projects<br><br>💬 Ask Me About<br><br>🐍 Python basics | 💡 C programming | 🌐 Web development basics<br><br>⚡ Fun Fact<br><br>✨ I enjoy building projects step by step and improving my coding skills 🚀<br>
 
 
@@ -30,4 +16,3 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=parapoojansri-hue&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
